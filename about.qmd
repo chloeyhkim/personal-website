@@ -1,7 +1,8 @@
 ---
-title: "About"
+title: "Projects"
 ---
 
-I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics. You can learn more about me from my resume.
+## Bruin Sports Analytics
 
-Email: 
+
+## Math 42

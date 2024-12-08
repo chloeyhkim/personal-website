@@ -6,6 +6,8 @@ about:
   links:
     - text: Email
       url: "mailto:chloeyhkim@ucla.edu"
+    - text: Resume
+      url: "Chloe Kim - Resume (3).pdf"
 ---
 
-I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics. You can learn more about me from my resume.
+I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics.
