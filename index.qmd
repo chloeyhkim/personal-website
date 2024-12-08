@@ -1,11 +1,11 @@
 ---
-title: "personal-website"
+title: "Chloe Kim"
+about:
+  template: jolla
+  image: profile-pic.JPEG
+  links:
+    - text: Email
+      url: "mailto:chloeyhkim@ucla.edu"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics. You can learn more about me from my resume.
