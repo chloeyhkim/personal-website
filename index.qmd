@@ -10,4 +10,4 @@ about:
       url: "Chloe Kim - Resume (3).pdf"
 ---
 
-I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics.
+I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics. My academic interests and coursework have fueled my passion for uncovering insights through data, and I'm eager to apply my skills in the field of data analytics.

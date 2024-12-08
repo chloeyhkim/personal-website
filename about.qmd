@@ -4,5 +4,12 @@ title: "Projects"
 
 ## Bruin Sports Analytics
 
+Cleaned and analyzed various NBA datasets to determine if there is a correlation between draft ranking and player performance using Google Sheets, Tableau, and R to display results. Summarized, simplified, and explained results in a [published article](https://www.bruinsportsanalytics.com/post/nba-draft-analysis).
+
+[Link](https://github.com/chloeyhkim/bsa-fall23) to github for this project.
 
 ## Math 42
+
+Worked with a team to examine the methodology and results of using logistic and LASSO regression to predict wildfire occurrences and burned areas based on various relevant variables. Cleaned a dataset of 517 wildfires, coded and applied regression models, tested and trained the dataset, and analyzed the predictive models. Summarized and graphed results and noted improvements that could be made.
+
+[Link](https://github.com/chloeyhkim/math42project) to github for this project.
