@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Cleaned and analyzed various NBA datasets to determine if there is a correlation between draft ranking and player performance using Google Sheets, Tableau, and R to display results. Summarized, simplified, and explained results in a published article.\nLink to github for this project."
+  },
+  {
+    "objectID": "about.html#bruin-sports-analytics",
+    "href": "about.html#bruin-sports-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Cleaned and analyzed various NBA datasets to determine if there is a correlation between draft ranking and player performance using Google Sheets, Tableau, and R to display results. Summarized, simplified, and explained results in a published article.\nLink to github for this project."
+  },
+  {
     "objectID": "about.html#math-42",
     "href": "about.html#math-42",
     "title": "Projects",
     "section": "Math 42",
-    "text": "Math 42"
+    "text": "Math 42\nWorked with a team to examine the methodology and results of using logistic and LASSO regression to predict wildfire occurrences and burned areas based on various relevant variables. Cleaned a dataset of 517 wildfires, coded and applied regression models, tested and trained the dataset, and analyzed the predictive models. Summarized and graphed results and noted improvements that could be made.\nLink to github for this project."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Chloe Kim",
     "section": "",
-    "text": "I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics."
+    "text": "I am currently a fourth year student at University of California, Los Angeles (UCLA) majoring in Statistics and Data Science and minoring in Mathematics. My academic interests and coursework have fueled my passion for uncovering insights through data, and I’m eager to apply my skills in the field of data analytics."
   }
 ]
